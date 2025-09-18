@@ -1,3 +1,12 @@
+Mask CNN-4 Model Architecture
+![IMG_5623](https://github.com/user-attachments/assets/1ef7ef46-b432-4296-b169-52f844bfa580)
+
+SE-ResNet-34 Model Architecture
+![IMG_5622](https://github.com/user-attachments/assets/7ec5fb51-49ae-42e5-b958-4c35656d92bd)
+
+SE-ResNeXt-152 Model Architecture
+![IMG_5624](https://github.com/user-attachments/assets/687420d1-e60b-4d47-907b-a5a74980caf8)
+
 # FakeVoiceDetection
 About Implementation of Anon and Payap's Fake Voice Detection Model of Public Figures
 
