@@ -3,11 +3,11 @@ Mask CNN-4
 
 ![IMG_5623](https://github.com/user-attachments/assets/1ef7ef46-b432-4296-b169-52f844bfa580)
 
-SE-ResNet-34
+Mask SE-ResNet-34
 
 ![IMG_5622](https://github.com/user-attachments/assets/7ec5fb51-49ae-42e5-b958-4c35656d92bd)
 
-SE-ResNeXt-152
+Mask SE-ResNeXt-152
 
 ![IMG_5624](https://github.com/user-attachments/assets/687420d1-e60b-4d47-907b-a5a74980caf8)
 
