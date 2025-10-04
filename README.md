@@ -18,7 +18,7 @@ Destination Tag:
 
 Developer Email : nkrafafakevoicedetection@gmail.com
 
-Download soure code, you can contact my email above.
+Download sourecode, you can contact my email above.
 
 # Model Architecture
 Mask CNN-4
