@@ -15,10 +15,7 @@ Destination Tag:
 ```
 1086890406
 ```
-
-Developer Email : nkrafafakevoicedetection@gmail.com
-
-Download Soure code, you can contact my email above.
+Download Soure code, you can contact my email : nkrafafakevoicedetection@gmail.com
 
 # Model Architecture
 Mask CNN-4
