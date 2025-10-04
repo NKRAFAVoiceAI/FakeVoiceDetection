@@ -38,6 +38,7 @@ About Implementation of Anon and Payap's Fake Voice Detection Model of Public Fi
 Reference
 
 [1] Bangsan, A., & Sirinam, P. (2025). The Application of Generative Artificial Intelligence Technology in Voice Conversion. NKRAFA JOURNAL OF SCIENCE AND TECHNOLOGY, 21(2), 135–157. retrieved from https://ph02.tci-thaijo.org/index.php/nkrafa-sct/article/view/257352
+
 [2] Bangsan, A., & Sirinam, P. (2026). Development of a Fake Voice Detection Model of Public Figures to Mitigate Disinformation in a Cyber Domain. KKU Science Journal, 54(1).
 
 # DEMO
