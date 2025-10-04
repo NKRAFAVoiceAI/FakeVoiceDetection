@@ -2,7 +2,7 @@
 If you would like to support our research and development, you can donate in **XRP (Ripple)**.  
 Every contribution helps us continue advancing AI and open research. 🙏  
 
-Network: XRP - Ripple  
+Network: XRP - Ripple
 Currency: XRP
 Address: 
 ```
