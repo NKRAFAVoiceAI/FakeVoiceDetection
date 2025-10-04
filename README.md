@@ -24,7 +24,7 @@ http://soc3.ddns.net:9999/
 
 # NKRAFA Thai Dataset
 
-The authors of the paper used the dataset from the Spoke task of Navaminda Kasatriyadhiraj Royal Air Force Academy (NKRAFA). This is a dataset of non-parallel utterances from TM03 (male) speaker. 10 reals, 10 fakes.
+The authors of the paper used the dataset from the Spoke task of Navaminda Kasatriyadhiraj Royal Air Force Academy (NKRAFA). This is a dataset of non-parallel utterances from TM03 (male) speaker. There are 10 reals and 10 fakes for test in the real situation.
 
 Download the dataset from the command line.
 ```
