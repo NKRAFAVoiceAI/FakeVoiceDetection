@@ -35,6 +35,9 @@ Mask SE-ResNeXt-152
 About Implementation of Anon and Payap's Fake Voice Detection Model of Public Figures
 <img width="1275" height="746" alt="MasK_SE-ResNeXt-152" src="https://github.com/user-attachments/assets/102e5522-371f-4d9e-a6ff-4703818320f7" />
 
+Reference
+Bangsan, A., & Sirinam, P. (2025). The Application of Generative Artificial Intelligence Technology in Voice Conversion. NKRAFA JOURNAL OF SCIENCE AND TECHNOLOGY, 21(2), 135–157. retrieved from https://ph02.tci-thaijo.org/index.php/nkrafa-sct/article/view/257352
+
 # DEMO
 
 Web Application
