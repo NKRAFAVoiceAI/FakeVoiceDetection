@@ -19,7 +19,7 @@ About Implementation of Anon and Payap's Fake Voice Detection Model of Public Fi
 Webapplication
 
 ```
-[Ubuntu 22.04.4 LTS 64-bit](http://soc3.ddns.net:9999/)
+http://soc3.ddns.net:9999/
 ```
 
 # Setup
