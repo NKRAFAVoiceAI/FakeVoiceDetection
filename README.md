@@ -28,7 +28,7 @@ The authors of the paper used the dataset from the Spoke task of Navaminda Kasat
 
 Download the dataset from google drive
 ```
-https://googledrive.com/NKRAFA_Thai
+https://drive.google.com/drive/folders/1NHfj5ogu8m8sDswCC7WTHYG5_EEEELjd
 ```
 # Setup
 
