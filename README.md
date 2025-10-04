@@ -1,3 +1,14 @@
+# Donate & Support Innovation
+If you would like to support our research and development, you can donate in **XRP (Ripple)**.  
+Every contribution helps us continue advancing AI and open research. 🙏  
+
+Network: XRP - Ripple
+Currency: XRP
+Address: rnrqyM7kS6wmC5demJm9vrfdN2vLgS8LfY
+Destination Tag: 1086890406
+
+Developer Email : nkrafafakevoicedetection@gmail.com
+
 # Model Architecture
 Mask CNN-4
 
