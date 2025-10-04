@@ -22,6 +22,22 @@ Web Application
 http://soc3.ddns.net:9999/
 ```
 
+# NKRAFA Thai Dataset
+
+The authors of the paper used the dataset from the Spoke task of Navaminda Kasatriyadhiraj Royal Air Force Academy (NKRAFA). This is a dataset of non-parallel utterances from TM03 (male) speaker. 10 reals, 10 fakes.
+
+Download the dataset from the command line.
+```
+wget --no-check-certificate https://googledrive.com/NKRAFA_Thai.zip?sequence=2&isAllowed=y
+```
+
+Unzip the dataset file.
+```
+mkdir NKRAFA_Thai
+apt-get install unzip
+unzip NKRAFA_Thai.zip?sequence=2 -d NKRAFA_Thai/
+```
+
 # Setup
 
 Operating System.
