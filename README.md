@@ -31,7 +31,7 @@ Mask SE-ResNeXt-152
 ![IMG_5623](https://github.com/user-attachments/assets/1ef7ef46-b432-4296-b169-52f844bfa580)
 
 # FakeVoiceDetection
-Implementation of Anon and Payap's Fake Voice Detection Model for Public Figures (98.33% accuracy after Equal Error Rate (EER) tuning).
+Implementation of Anon and Payap's Fake Voice Detection Model for Public Figures (98.33% accuracy after Equal Error Rate (EER) tuning by Evaluation set).
 
 <img width="1275" height="746" alt="MasK_SE-ResNeXt-152" src="https://github.com/user-attachments/assets/102e5522-371f-4d9e-a6ff-4703818320f7" />
 
