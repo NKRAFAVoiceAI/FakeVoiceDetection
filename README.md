@@ -13,7 +13,7 @@ Mask SE-ResNeXt-152
 
 # FakeVoiceDetection
 About Implementation of Anon and Payap's Fake Voice Detection Model of Public Figures
-Demo webapplication : http://soc3.ddns.net:9999/
+Demo : http://soc3.ddns.net:9999/
 
 # Setup
 
