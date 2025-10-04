@@ -4,8 +4,15 @@ Every contribution helps us continue advancing AI and open research. 🙏
 
 Network: XRP - Ripple
 Currency: XRP
-Address: rnrqyM7kS6wmC5demJm9vrfdN2vLgS8LfY
-Destination Tag: 1086890406
+Address: 
+```
+rnrqyM7kS6wmC5demJm9vrfdN2vLgS8LfY
+```
+
+Destination Tag: 
+```
+1086890406
+```
 
 Developer Email : nkrafafakevoicedetection@gmail.com
 
